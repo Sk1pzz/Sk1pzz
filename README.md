@@ -13,5 +13,5 @@
 ![Spotify](https://img.shields.io/badge/Spotify-141321?style=flat&logo=Spotify)
 
 ### Stats:<br>
-![Skipzz's github stats](https://github-readme-stats.vercel.app/api?username=1Prototype1&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+![Skipzz's github stats](https://github-readme-stats.vercel.app/api?username=Sk1pzz&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk1pzz&theme=tokyonight&langs_count=10&layout=compact)
